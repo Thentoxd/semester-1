@@ -8,3 +8,5 @@ I have experience in these programming langauges:
 * C++
 * Python
 * Java/Kotlin
+
+![bosh](https://tenor.com/en-GB/view/bosh-big-john-gif-11333787200871738645)
