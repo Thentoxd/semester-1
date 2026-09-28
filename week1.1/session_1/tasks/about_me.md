@@ -9,4 +9,4 @@ I have experience in these programming langauges:
 * Python
 * Java/Kotlin
 
-![bosh](https://tenor.com/en-GB/view/bosh-big-john-gif-11333787200871738645)
+![bosh](https://media1.tenor.com/m/nUmzaQPULRUAAAAC/bosh-big-john.gif)
