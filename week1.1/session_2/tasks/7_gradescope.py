@@ -4,13 +4,13 @@
 
 # Ask a user to enter two numbers (one per input)
 num1 = input("Enter number 1: ")
-if not num1.isnumeric():
+if not num1.isnumeric() and num1 > 0:
     print("That is not a number")
     exit()
 
 num2 = intput("Enter number 2: ")
 
-if not num2.isnumeric():
+if not num2.isnumeric() and num2 > 0:
     print("That is not a number")
     exit()
 
