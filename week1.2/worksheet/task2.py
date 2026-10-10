@@ -20,7 +20,7 @@ else:
         #Otherwise, just print out the middle value.
         median = numbers[size // 2]
 
-    print(f"Minimum: {min(numbers)}")
-    print(f"Maximum: {max(numbers)}")
-    print(f"Mean: {sum(numbers) / size}")
-    print(f"Median: {median}")
+    print(f"Minimum = {min(numbers)}")
+    print(f"Maximum = {max(numbers)}")
+    print(f"Mean = {sum(numbers) / size}")
+    print(f"Median = {median}")
